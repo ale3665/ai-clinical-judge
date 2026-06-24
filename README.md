@@ -118,7 +118,7 @@ pip install -r requirements.txt
 
 ---
 
-## Step 2: Understand the input files
+## Understand the input files
 
 ### `data/notes.csv`
 
@@ -150,7 +150,7 @@ Use this format for your own Labeler outputs.
 
 ---
 
-## Step 3: Run the judge on one model version
+## Step 2: Run the judge on one model version
 
 ```bash
 python main.py \
@@ -173,7 +173,7 @@ reports/bootstrap_ci_labeler_v1.json
 
 ---
 
-## Step 4: Compare model/training versions
+## Step 3: Compare model/training versions
 
 Run:
 
@@ -204,7 +204,7 @@ This helps answer:
 
 ---
 
-## Step 5: Open the dashboard
+## Step 4: Open the dashboard
 
 ```bash
 streamlit run dashboard/app.py
@@ -223,7 +223,7 @@ The dashboard shows:
 
 ---
 
-## Step 6: How the judge works
+## How the judge works
 
 The AI Judge has three layers.
 
@@ -282,7 +282,7 @@ Do not send identifiable patient information to an external LLM API.
 
 ---
 
-## Step 7: Metrics explained
+## Metrics explained
 
 The project calculates:
 
@@ -305,7 +305,7 @@ The project also tracks:
 
 ---
 
-## Step 8: How to use this with your real AI Labeler
+## How to use this with your real AI Labeler
 
 Replace the sample files with your real files.
 
@@ -371,7 +371,7 @@ python main.py --outputs data/labeler_outputs_your_model.jsonl
 
 ---
 
-## Step 9: Recommended development workflow
+## Recommended development workflow
 
 Use this order:
 
@@ -390,7 +390,7 @@ Use this order:
 
 ---
 
-## Step 10: Human review queue
+## Human review queue
 
 The judge flags cases for review when:
 
@@ -412,7 +412,7 @@ This is the file you can give to a clinician/reviewer.
 
 ---
 
-## Step 11: Safety notes
+## Safety notes
 
 For healthcare use:
 
@@ -422,3 +422,7 @@ For healthcare use:
 - Do not send PHI to public APIs.
 - Track dataset version, Labeler version, Judge version, prompt version, and reviewer decisions.
 - Keep failed cases for error analysis.
+
+## Disclaimer
+
+This project is for research and educational purposes only. It is not intended for clinical diagnosis, treatment decisions, or direct patient care. The sample data included in this repository is synthetic and does not contain real patient information.
