@@ -1,0 +1,77 @@
+note_id,gold_id,span,concept_type,normalized_concept,cui,risk_level
+N001,G001,type 2 diabetes mellitus,diagnosis,Type 2 diabetes mellitus,C0011860,medium
+N001,G002,metformin,medication,Metformin,C0025598,medium
+N001,G003,chest pain,symptom,Chest pain,C0008031,high
+N001,G004,shortness of breath,symptom,Dyspnea,C0013404,high
+N001,G005,Troponin,lab,Troponin measurement,C0041207,medium
+N002,G006,hypertension,diagnosis,Hypertensive disorder,C0020538,medium
+N002,G007,chronic kidney disease,diagnosis,Chronic kidney disease,C1561643,high
+N002,G008,lisinopril,medication,Lisinopril,C0065374,medium
+N002,G009,Creatinine,lab,Creatinine measurement,C0201975,medium
+N003,G010,asthma,diagnosis,Asthma,C0004096,medium
+N004,G011,pneumonia,diagnosis,Pneumonia,C0032285,high
+N004,G012,ceftriaxone,medication,Ceftriaxone,C0007561,medium
+N004,G013,azithromycin,medication,Azithromycin,C0052796,medium
+N004,G014,Oxygen saturation,lab,Oxygen saturation measurement,C0428179,medium
+N005,G015,severe headache,symptom,Headache,C0018681,medium
+N005,G016,nausea,symptom,Nausea,C0027497,medium
+N005,G017,CT head,procedure,Computed tomography of head,C0430404,medium
+N005,G018,migraine,diagnosis,Migraine disorder,C0149931,medium
+N006,G019,atrial fibrillation,diagnosis,Atrial fibrillation,C0004238,high
+N006,G020,warfarin,medication,Warfarin,C0043031,high
+N006,G021,palpitations,symptom,Palpitations,C0030252,medium
+N006,G022,INR,lab,International normalized ratio,C0525032,high
+N007,G023,heart failure with reduced ejection fraction,diagnosis,Heart failure with reduced ejection fraction,,high
+N007,G024,furosemide,medication,Furosemide,C0016860,medium
+N007,G025,leg swelling,symptom,Peripheral edema,C0031039,medium
+N007,G026,BNP,lab,B-type natriuretic peptide measurement,,medium
+N008,G027,dysuria,symptom,Dysuria,C0013428,medium
+N008,G028,urinary frequency,symptom,Urinary frequency,C0042023,medium
+N008,G029,Urinalysis,lab,Urinalysis,C0042018,medium
+N008,G030,nitrofurantoin,medication,Nitrofurantoin,C0028168,medium
+N008,G031,urinary tract infection,diagnosis,Urinary tract infection,C0042029,medium
+N009,G032,MRI brain,procedure,Magnetic resonance imaging of brain,,medium
+N009,G033,left arm weakness,symptom,Weakness of left arm,,high
+N009,G034,slurred speech,symptom,Slurred speech,C0234518,high
+N010,G035,COPD,diagnosis,Chronic obstructive pulmonary disease,C0024117,high
+N010,G036,albuterol inhaler,medication,Albuterol,C0001927,medium
+N010,G037,wheezing,symptom,Wheezing,C0043144,medium
+N010,G038,productive cough,symptom,Productive cough,,medium
+N010,G039,Prednisone,medication,Prednisone,C0032952,medium
+N011,G040,hyperlipidemia,diagnosis,Hyperlipidemia,C0020473,medium
+N011,G041,atorvastatin,medication,Atorvastatin,C0286651,medium
+N011,G042,LDL cholesterol,lab,Low density lipoprotein cholesterol measurement,,medium
+N012,G043,iron deficiency anemia,diagnosis,Iron deficiency anemia,C0162316,medium
+N012,G044,Hemoglobin,lab,Hemoglobin measurement,C0019046,medium
+N012,G045,ferrous sulfate,medication,Ferrous sulfate,C0016157,medium
+N013,G046,penicillin,allergy,Penicillin allergy,,high
+N013,G047,vancomycin,medication,Vancomycin,C0042313,medium
+N013,G048,cellulitis,diagnosis,Cellulitis,C0007642,medium
+N013,G049,right leg,anatomy,Right lower limb,,low
+N014,G050,abdominal pain,symptom,Abdominal pain,C0000737,medium
+N014,G051,vomiting,symptom,Vomiting,C0042963,medium
+N014,G052,Ultrasound abdomen,procedure,Abdominal ultrasound,,medium
+N014,G053,gallstones,diagnosis,Cholelithiasis,C0008350,medium
+N014,G054,laparoscopic cholecystectomy,procedure,Laparoscopic cholecystectomy,,medium
+N015,G055,gestational diabetes,diagnosis,Gestational diabetes mellitus,C0085207,high
+N015,G056,Glucose,lab,Glucose measurement,C0017725,medium
+N015,G057,insulin therapy,medication,Insulin,C0021641,high
+N016,G058,depression,diagnosis,Depressive disorder,C0011581,medium
+N016,G059,sertraline,medication,Sertraline,C0074393,medium
+N016,G060,insomnia,symptom,Insomnia,C0917801,medium
+N017,G061,rheumatoid arthritis,diagnosis,Rheumatoid arthritis,C0003873,medium
+N017,G062,methotrexate,medication,Methotrexate,C0025677,high
+N017,G063,joint pain,symptom,Arthralgia,C0003862,medium
+N017,G064,morning stiffness,symptom,Morning stiffness,,medium
+N018,G065,fall,event,Fall,C0085639,medium
+N018,G066,hip pain,symptom,Hip pain,C0019559,medium
+N018,G067,X-ray pelvis,procedure,Pelvis X-ray,,medium
+N018,G068,femoral neck fracture,diagnosis,Fracture of neck of femur,C0015802,high
+N019,G069,sepsis,diagnosis,Sepsis,C0243026,high
+N019,G070,infected central line,diagnosis,Central line infection,,high
+N019,G071,Blood cultures,lab,Blood culture,C0005767,medium
+N019,G072,Staphylococcus aureus,organism,Staphylococcus aureus,C0038172,high
+N019,G073,cefazolin,medication,Cefazolin,C0007546,medium
+N020,G074,hypothyroidism,diagnosis,Hypothyroidism,C0020676,medium
+N020,G075,levothyroxine,medication,Levothyroxine,C0023660,medium
+N020,G076,TSH,lab,Thyroid stimulating hormone measurement,,medium

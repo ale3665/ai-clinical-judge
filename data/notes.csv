@@ -1,0 +1,21 @@
+note_id,note_text
+N001,Patient is a 58-year-old female with type 2 diabetes mellitus on metformin. She reports chest pain and shortness of breath for two days. Troponin was elevated.
+N002,The patient has hypertension and chronic kidney disease. Home medications include lisinopril. Creatinine increased to 2.1 mg/dL.
+N003,Patient denies fever and cough. Chest x-ray shows no acute cardiopulmonary process. History of asthma.
+N004,A 72-year-old male admitted for pneumonia. Started on ceftriaxone and azithromycin. Oxygen saturation improved overnight.
+N005,Patient presents with severe headache and nausea. CT head was negative for bleeding. Past medical history includes migraine.
+N006,A 45-year-old with atrial fibrillation on warfarin presents with palpitations. INR today is 3.4.
+N007,Patient has heart failure with reduced ejection fraction. Started furosemide for leg swelling. BNP was 920 pg/mL.
+N008,The patient reports dysuria and urinary frequency. Urinalysis showed positive nitrites. Treated with nitrofurantoin for urinary tract infection.
+N009,No evidence of stroke on MRI brain. Patient has left arm weakness and slurred speech that resolved in the ED.
+N010,Patient with COPD uses albuterol inhaler. Presents with wheezing and productive cough. Prednisone was prescribed.
+N011,A 60-year-old with hyperlipidemia takes atorvastatin. LDL cholesterol is 165 mg/dL.
+N012,Patient has iron deficiency anemia. Hemoglobin is 8.9 g/dL. Started ferrous sulfate.
+N013,The patient is allergic to penicillin. She was given vancomycin for cellulitis of the right leg.
+N014,Patient with abdominal pain and vomiting. Ultrasound abdomen showed gallstones. Scheduled for laparoscopic cholecystectomy.
+N015,Pregnant patient at 32 weeks with gestational diabetes. Glucose was 190 mg/dL after meals. Started insulin therapy.
+N016,Patient has depression treated with sertraline. Denies suicidal ideation. Reports insomnia.
+N017,Patient with rheumatoid arthritis takes methotrexate. Reports joint pain and morning stiffness.
+N018,Patient presents after a fall with hip pain. X-ray pelvis shows femoral neck fracture.
+N019,Patient with sepsis likely from infected central line. Blood cultures grew Staphylococcus aureus. Started cefazolin.
+N020,Patient has hypothyroidism on levothyroxine. TSH is elevated at 8.2 mIU/L.

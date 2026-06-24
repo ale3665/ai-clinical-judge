@@ -1,0 +1,159 @@
+{
+  "dyspnea": [
+    "shortness of breath",
+    "sob"
+  ],
+  "type 2 diabetes mellitus": [
+    "type 2 diabetes",
+    "diabetes mellitus",
+    "diabetes"
+  ],
+  "hypertensive disorder": [
+    "hypertension",
+    "high blood pressure",
+    "htn"
+  ],
+  "chronic kidney disease": [
+    "ckd",
+    "kidney disease"
+  ],
+  "myocardial infarction": [
+    "heart attack",
+    "mi"
+  ],
+  "headache": [
+    "severe headache",
+    "head pain"
+  ],
+  "migraine disorder": [
+    "migraine"
+  ],
+  "computed tomography of head": [
+    "ct head",
+    "head ct"
+  ],
+  "oxygen saturation measurement": [
+    "oxygen saturation",
+    "o2 sat",
+    "spo2"
+  ],
+  "troponin measurement": [
+    "troponin"
+  ],
+  "creatinine measurement": [
+    "creatinine"
+  ],
+  "atrial fibrillation": [
+    "afib",
+    "atrial fib"
+  ],
+  "international normalized ratio": [
+    "inr"
+  ],
+  "heart failure with reduced ejection fraction": [
+    "hfrEF",
+    "systolic heart failure",
+    "heart failure"
+  ],
+  "peripheral edema": [
+    "leg swelling",
+    "edema"
+  ],
+  "b-type natriuretic peptide measurement": [
+    "bnp",
+    "bnp test"
+  ],
+  "dysuria": [
+    "painful urination"
+  ],
+  "urinary tract infection": [
+    "uti"
+  ],
+  "magnetic resonance imaging of brain": [
+    "mri brain",
+    "brain mri",
+    "mri"
+  ],
+  "chronic obstructive pulmonary disease": [
+    "copd"
+  ],
+  "albuterol": [
+    "albuterol inhaler"
+  ],
+  "productive cough": [
+    "cough with sputum"
+  ],
+  "hyperlipidemia": [
+    "high cholesterol"
+  ],
+  "low density lipoprotein cholesterol measurement": [
+    "ldl cholesterol",
+    "ldl"
+  ],
+  "iron deficiency anemia": [
+    "anemia",
+    "iron-deficiency anemia"
+  ],
+  "hemoglobin measurement": [
+    "hemoglobin",
+    "hgb"
+  ],
+  "penicillin allergy": [
+    "penicillin",
+    "allergic to penicillin"
+  ],
+  "right lower limb": [
+    "right leg"
+  ],
+  "abdominal ultrasound": [
+    "ultrasound abdomen",
+    "abdominal ultrasound"
+  ],
+  "cholelithiasis": [
+    "gallstones",
+    "gall bladder stones",
+    "gallstones disease"
+  ],
+  "gestational diabetes mellitus": [
+    "gestational diabetes"
+  ],
+  "glucose measurement": [
+    "glucose",
+    "blood glucose"
+  ],
+  "insulin": [
+    "insulin therapy"
+  ],
+  "depressive disorder": [
+    "depression"
+  ],
+  "rheumatoid arthritis": [
+    "ra"
+  ],
+  "arthralgia": [
+    "joint pain"
+  ],
+  "pelvis x-ray": [
+    "x-ray pelvis",
+    "pelvic x-ray"
+  ],
+  "fracture of neck of femur": [
+    "femoral neck fracture",
+    "hip fracture"
+  ],
+  "central line infection": [
+    "infected central line",
+    "central venous catheter infection"
+  ],
+  "blood culture": [
+    "blood cultures"
+  ],
+  "staphylococcus aureus": [
+    "staph aureus",
+    "s aureus"
+  ],
+  "thyroid stimulating hormone measurement": [
+    "tsh",
+    "tsh test"
+  ]
+}

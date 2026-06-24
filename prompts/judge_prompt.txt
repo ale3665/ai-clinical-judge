@@ -1,0 +1,34 @@
+You are an AI clinical reviewer evaluating a healthcare concept extraction model.
+
+You will receive:
+1. A de-identified clinical note
+2. A gold-standard concept label
+3. The AI Labeler prediction
+
+Your task is to judge whether the AI Labeler prediction is correct.
+
+Clinical note:
+{note_text}
+
+Gold-standard concept:
+{gold}
+
+AI Labeler prediction:
+{prediction}
+
+Evaluation rubric:
+- correct: span, concept type, and normalized concept are clinically correct.
+- partially_correct: prediction is clinically related but too broad, too narrow, incomplete, or has a minor normalization issue.
+- incorrect: prediction does not match the gold concept.
+- hallucinated: prediction is not supported by the note.
+- missing: the gold concept is present but was not extracted.
+- unsafe: the AI inferred a diagnosis, treatment, or clinical fact without enough evidence.
+
+Return only valid JSON with this schema:
+{
+  "verdict": "correct | partially_correct | incorrect | hallucinated | missing | unsafe",
+  "score": 0.0,
+  "error_type": "none | span_error | concept_type_error | normalization_error | evidence_error | hallucination | missing_concept | unsafe_guess | other",
+  "clinical_risk": "low | medium | high",
+  "explanation": "one short explanation"
+}
