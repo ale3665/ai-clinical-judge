@@ -423,6 +423,8 @@ For healthcare use:
 - Track dataset version, Labeler version, Judge version, prompt version, and reviewer decisions.
 - Keep failed cases for error analysis.
 
+---
+
 ## Disclaimer
 
 This project is for research and educational purposes only. It is not intended for clinical diagnosis, treatment decisions, or direct patient care. The sample data included in this repository is synthetic and does not contain real patient information.
